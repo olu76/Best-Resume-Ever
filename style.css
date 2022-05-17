@@ -17,7 +17,7 @@ h2 {
   padding-bottom: 1em;
 }
 
-main { 
+main {
   display: grid;
   grid-template-columns: 40% 60%;
   margin-top: 3em;
@@ -46,7 +46,8 @@ hr {
   height: 1px;
 }
 
-h1, h2 {
+h1,
+h2 {
   font-weight: 100;
   margin-bottom: 0;
 }
